@@ -1,5 +1,6 @@
 # OtoServisOtomasyonu
 Ders: Sistem Analizi ve Tasarımı
+Projeyi çalıştırabilmek için bilgisayarınızda DevExpress araçının ve SQL Server Express'in kurulu olması gerekiyor.
 
 Tasarım tarafında c# ve devexpress araçları ağırlıklı olarak kullanılmıştır.
 Veritabanından nesnelere bağlantı ve alışveriş için Entity Framework kullanılmıştır.
