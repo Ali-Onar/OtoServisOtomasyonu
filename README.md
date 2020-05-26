@@ -1,7 +1,7 @@
 # OtoServisOtomasyonu
 Ders: Sistem Analizi ve Tasarımı
 
-Tasarım tarafında c# ve devexpress aracı ağırlıklı olarak kullanılmıştır.
+Tasarım tarafında c# ve devexpress araçları ağırlıklı olarak kullanılmıştır.
 Veritabanından nesnelere bağlantı ve alışveriş için Entity Framework kullanılmıştır.
 
 Projenin bitmiş halini youtube'da paylaşacağım.
