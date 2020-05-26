@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeknikServis", "TeknikServis\TeknikServis.csproj", "{047C368E-5B5F-4655-98BA-BC235F0B6C59}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Oto Servis Otomasyonu", "Oto Servis Otomasyonu\Oto Servis Otomasyonu.vdproj", "{3928FDE4-F5A9-425B-BD8A-AB3B43FD6205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047C368E-5B5F-4655-98BA-BC235F0B6C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047C368E-5B5F-4655-98BA-BC235F0B6C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047C368E-5B5F-4655-98BA-BC235F0B6C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047C368E-5B5F-4655-98BA-BC235F0B6C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3928FDE4-F5A9-425B-BD8A-AB3B43FD6205}.Debug|Any CPU.ActiveCfg = Debug
+		{3928FDE4-F5A9-425B-BD8A-AB3B43FD6205}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC4A95A-CE45-4652-A475-73581EC1D7A1}
+	EndGlobalSection
+EndGlobal
